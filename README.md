@@ -1,6 +1,7 @@
 # 🎮 UNO AI
 
 Handleiding voor het starten en gebruiken van de **UNO AI**-simulatie.
+Deze simulatie wordt door het programma gespeeld.
 
 ---
 
